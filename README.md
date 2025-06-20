@@ -1,9 +1,3 @@
-## Hi there 👋
-
-<!--
-**YogitaPatil5/YogitaPatil5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 # Hi there! 👋
 
 I'm **YOGITA PATIL** 👩‍💻  
@@ -52,4 +46,3 @@ I love turning raw data into meaningful insights, and I believe learning never s
 
 > *“Keep building. Keep learning. Keep shining!”* ✨
 
--->
