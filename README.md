@@ -1,14 +1,14 @@
 # Hi there! 👋
 
 I'm **YOGITA PATIL** 👩‍💻  
-Certified Data Scientist | AI/ML Enthusiast | Python Developer | GenAI Explorer | AWS & MLOps Learner
+Certified Data Scientist | AI/ML Enthusiast | Python Developer | GenAI Explorer | AWS DevOps MLOps Learner
 
 ---
 
 💡 **About Me**  
 - 🎓 Certified in Advanced AI & Data Science (IITM Pravartak – Intellipaat)  
 - 🧠 Passionate about **AI, Machine Learning, NLP**, and **Generative AI**  
-- 🔍 Exploring **MLOps**, **LLMOps**, and cloud technologies (**AWS, Azure**)  
+- 🔍 Exploring **MLOps**, **DevOps**, **LLMOps**, and cloud technologies (**AWS, Azure**)  
 - 🛠️ Building **end-to-end AI projects** with real-world applications  
 - 📚 Former **Math & Python Trainer**, now transitioning fully into tech  
 - 👩‍👧‍👦 Career re-starter, lifelong learner, and mentor at heart
@@ -33,7 +33,7 @@ Certified Data Scientist | AI/ML Enthusiast | Python Developer | GenAI Explorer 
 - Hackathons, mentorship, and open-source contributions
 
 💼 **Open to:**  
-- Data Scientist | AI Engineer | ML Engineer | Research Intern roles  
+- DevOps | Cloud | Data Scientist | AI Engineer | ML Engineer | Research Intern roles  
 - Freelance projects in ML, NLP, or cloud-based AI apps
 
 📬 **How to reach me:**  
