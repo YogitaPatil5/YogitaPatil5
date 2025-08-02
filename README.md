@@ -1,8 +1,7 @@
 # Hi there! 👋
 
 I'm **YOGITA PATIL** 👩‍💻  
- Python Developer | AI/ML & NLP Practitioner | Cloud , DevOps & MLOps Enthusiast | Exploring Generative AI
-
+Certified Data Scientist | AWS Certified Cloud Practitioner | Python Developer | AI/ML & NLP Practitioner | DevOps & MLOps Enthusiast | Exploring Generative AI
 ---
 
 💡 **About Me**  
