@@ -29,10 +29,10 @@ Certified Data Scientist | AWS Certified Cloud Practitioner | Python Developer |
 
 🤝 **Looking to collaborate on:**  
 - Generative AI, NLP, and AI-based deployment projects  
-- Hackathons, mentorship, and open-source contributions
+  Mentorship, and open-source contributions
 
 💼 **Open to:**  
-- DevOps | Cloud | Data Scientist | AI Engineer | ML Engineer | Research Intern roles  
+- Data Scientist | AI Engineer | ML Engineer | Python Developer  
 - Freelance projects in ML, NLP, or cloud-based AI apps
 
 📬 **How to reach me:**  
