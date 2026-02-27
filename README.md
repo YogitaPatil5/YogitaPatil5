@@ -18,7 +18,7 @@ Certified Data Scientist | AWS Certified Cloud Practitioner | Python Developer |
 - Generative AI  
 - Large Language Models (LLMs)  
 - LLMOps  
-- Agentic AI frameworks (e.g., LangChain, AutoGen, etc.)
+- Agentic AI Frameworks (e.g., LangChain, AutoGen, CrewAI, etc.)
 
 ---
 
