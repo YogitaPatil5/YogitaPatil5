@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 I'm **YOGITA PATIL** 👩‍💻  
-Certified Data Scientist | AWS Certified Cloud Practitioner | Python Developer | AI/ML & NLP Practitioner | Exploring Generative AI
+AI/ML Engineer | Gen AI & Agentic AI Engineer | Certified Data Scientist | AWS Certified Cloud Practitioner | Data Science & AI Consultant | NLP | LLM | Python
 ---
 
 💡 **About Me**  
